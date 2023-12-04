@@ -2,8 +2,6 @@ import org.example.animals.Cat;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.util.Calendar;
-
 public class FirstTest {
 
     @Test (groups = "negative")
