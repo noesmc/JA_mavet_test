@@ -1,7 +1,4 @@
-import org.example.Deep;
-import org.example.animals.Animal;
 import org.example.animals.Cat;
-import org.example.animals.Dog;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
